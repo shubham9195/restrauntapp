@@ -1,0 +1,4 @@
+#Tue Jul 16 15:13:44 IST 2019
+base.0=/home/shubham/Desktop/Servitor/Customer-app/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
